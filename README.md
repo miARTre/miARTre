@@ -37,8 +37,4 @@ I'm passionate about learning and improving every day. I’m especially focused 
   <img src="https://api.boot.dev/v1/users/public/5bd64628-78e8-46ea-902e-83bb65dda706/thumbnail" >
 </p>
 
-### 📫 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mirnesbecirbegovic)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourusername)  
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/yourusername)  
