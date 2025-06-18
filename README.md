@@ -30,8 +30,10 @@ I'm passionate about learning and improving every day. I’m especially focused 
 
 #### 🚧 Currently learning:
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black"/>  
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+</p>
 
 ---
 
