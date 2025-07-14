@@ -38,6 +38,9 @@ I'm passionate about learning and improving every day. I’m especially focused 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
 </p>
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&hide_progress=false)
+
 ---
 
 <p align="left">
