@@ -40,8 +40,8 @@ I'm passionate about learning and improving every day. I’m especially focused 
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miARTre&layout=compact&langs_count=8&hide_progress=false)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miARTre&show_icons=true&theme=default)
-
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miARTre&show_icons=true&theme=default) -->
+ 
 
 ---
 
