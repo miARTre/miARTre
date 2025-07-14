@@ -39,7 +39,7 @@ I'm passionate about learning and improving every day. I’m especially focused 
 </p>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miARTre&layout=compact&langs_count=8&hide_progress=false)
 
 ---
 
