@@ -11,7 +11,7 @@ I'm passionate about learning and improving every day. I’m especially focused 
 - 💻 Currently learning through [Boot.dev](https://boot.dev)  
 - ✉️ You can contact me at [mirnesbb@gmail.com](mailto:mirnesbb@gmail.com)  
 - 🧠 Learning: Full-stack development, system design, and software architecture  
-- 🛠️ Open to: Internships, junior roles, and collaborations on real-world projects  
+- 🛠️ Open to: junior roles, and collaborations on real-world projects  
 - ⚡ Fun fact about me: I love hiking, even though it’s a challenge – but just like in coding, I keep climbing!  
 
 ---
